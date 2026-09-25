@@ -1,6 +1,7 @@
 # Ambient AI Note-Taking in Healthcare: Impacts on Doctor-Patient Conversations and Medical Record Accuracy
 
 <img width="1241" height="1755" alt="R-262101_page-0001" src="https://github.com/user-attachments/assets/a9af51bd-88f5-428a-b2c4-2e24dcf2789b" />
+
 [![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
 ## Overview
